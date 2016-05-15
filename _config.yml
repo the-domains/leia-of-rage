@@ -6,13 +6,13 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.38755523537421854
-  lightness: 0.3767396122577992
-  rhythmicContrast: 0.28811927113812963
-  saturation: 0.9244712256521547
+  brandStrength: 0.387555
+  lightness: 0.922433
+  rhythmicContrast: 0.288119
+  saturation: 1
 cta: {}
-layout_spectrum: 0.8435824051620284
+layout_spectrum: 1
 name: Leia of Rage
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.37185490859107373
+typography_spectrum: 0.343191
