@@ -1,5 +1,6 @@
 ---
-dateModified: '2016-05-15T13:13:38.569Z'
+dateModified: '2016-05-15T13:17:31.060Z'
+datePublished: '2016-05-15T13:17:42.939Z'
 hasPage: false
 inFeed: true
 inNav: false
@@ -7,7 +8,6 @@ title: Coming Soon
 description: ''
 author: []
 starred: false
-datePublished: '2016-05-15T13:13:49.607Z'
 sourcePath: _posts/2016-05-15-coming-soon.md
 _context: 'http://schema.org'
 _type: Article
