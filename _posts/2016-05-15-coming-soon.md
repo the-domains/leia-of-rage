@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-05-17T02:41:13.350Z'
-datePublished: '2016-05-17T02:41:25.360Z'
+dateModified: '2016-05-17T03:13:50.842Z'
+datePublished: '2016-05-17T03:14:03.935Z'
 hasPage: false
 inFeed: true
 inNav: false
