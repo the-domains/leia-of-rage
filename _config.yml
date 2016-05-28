@@ -1,3 +1,4 @@
+name: Leia of Rage
 purpose: {}
 collections:
   - index:
@@ -25,6 +26,5 @@ color:
   lightness: 0.922433
 typography_spectrum: 0.1702509
 layout_spectrum: 1
-cta: {}
 analytics: {}
-name: Leia of Rage
+cta: {}
