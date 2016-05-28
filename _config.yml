@@ -1,18 +1,30 @@
-analytics: {}
+name: Leia of Rage
+purpose: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+opengraph: {}
 color:
+  rhythmicContrast: 0.288119
+  brandStrength: 0.387555
+  saturation: 1
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.387555
   lightness: 0.922433
-  rhythmicContrast: 0.288119
-  saturation: 1
-cta: {}
-layout_spectrum: 0.78404
-name: Leia of Rage
-opengraph: {}
-purpose: {}
 typography_spectrum: 0.19308
+cta: {}
+analytics: {}
+layout_spectrum: 1
