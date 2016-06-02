@@ -1,4 +1,3 @@
-name: Leia of Rage
 purpose: {}
 collections:
   - index:
@@ -6,25 +5,26 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 opengraph: {}
 color:
-  saturation: 1
+  saturation: 0.4784946
   brandStrength: 0.6612903
-  rhythmicContrast: 0.288119
+  lightness: 1
   brandColors:
     - '#65CE00'
     - '#FFFFFF'
     - '#01C3FF'
     - '#FF34E8'
     - '#326600'
-  lightness: 0.922433
+  rhythmicContrast: 0.8942652
 typography_spectrum: 0.1702509
+layout_spectrum: 0.6594982
 cta: {}
 analytics: {}
-layout_spectrum: 0.06630825
+name: Leia of Rage
