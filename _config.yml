@@ -1,4 +1,4 @@
-name: Leia of Rage
+cta: {}
 purpose: {}
 collections:
   - index:
@@ -15,7 +15,7 @@ collections:
 opengraph: {}
 color:
   saturation: 0.4784946
-  brandStrength: 0.4659498
+  brandStrength: 0.3351254
   lightness: 1
   brandColors:
     - '#65CE00'
@@ -27,4 +27,4 @@ color:
 typography_spectrum: 0.1702509
 layout_spectrum: 0.4050179
 analytics: {}
-cta: {}
+name: Leia of Rage
