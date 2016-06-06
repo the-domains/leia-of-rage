@@ -5,16 +5,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 opengraph: {}
 color:
   saturation: 0.4784946
-  brandStrength: 0.6612903
+  brandStrength: 0.4659498
   lightness: 1
   brandColors:
     - '#65CE00'
@@ -24,7 +24,7 @@ color:
     - '#326600'
   rhythmicContrast: 0.8942652
 typography_spectrum: 0.1702509
-layout_spectrum: 0.6594982
+layout_spectrum: 0.9605735
 cta: {}
 analytics: {}
 name: Leia of Rage
