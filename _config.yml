@@ -24,7 +24,7 @@ color:
     - '#FE1EAA'
     - '#7900FD'
   rhythmicContrast: 0.2329749
-typography_spectrum: 0.1702509
+typography_spectrum: 0
+layout_spectrum: 0.3369175
 cta: {}
-layout_spectrum: 0.7688172
 analytics: {}
