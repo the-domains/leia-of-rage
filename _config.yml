@@ -1,11 +1,5 @@
-name: Swiss Army Chick
-layout_spectrum: 0.3369175
-typography_spectrum: 0
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.8818521187640727
+typography_spectrum: 0.04706064146012068
 color:
   brandColors:
     - '#FFFFFF'
@@ -17,6 +11,14 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.2329749
+coverPrefs:
+  filter: false
+name: Swiss Army Chick
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 purpose: {}
 title: Newer Than Ever
 author:
