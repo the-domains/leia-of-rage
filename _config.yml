@@ -1,30 +1,27 @@
-name: Leia of Rage
-purpose: {}
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-opengraph: {}
+name: Swiss Army Chick
+layout_spectrum: 0.3369175
+typography_spectrum: 0
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
-  saturation: 1
-  brandStrength: 0.7849463
-  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#27DA00'
     - '#0275FE'
     - '#FE1EAA'
     - '#7900FD'
+  brandStrength: 0.7849463
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.2329749
-typography_spectrum: 0
-layout_spectrum: 0.3369175
-cta: {}
-analytics: {}
+purpose: {}
+title: Newer Than Ever
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
